@@ -1,1 +1,7 @@
-project: 448526
+# project_directory/scrapinghub.yml
+
+projects:
+  default: 448526
+
+requirements:
+  file: requirements.txt
